@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+  <!-- ============================================================
+       RED POCKET MOBILE — PHONES CATALOG FEED
+       Klaviyo Custom Catalog Feed (XML)
+       Required fields: $id, $title, $link, $image_link, $description
+       Optional: $price, categories, $inventory_quantity, $inventory_policy
+       Custom: brand, storage_gb, color, network_compatibility,
+               condition, os, screen_size_inches, camera_mp, upgrade_eligible
+  ============================================================ -->
+
+  <item>
+    <id>PHONE-IPHONE15-128-BLACK</id>
+    <title>Apple iPhone 15 — 128GB Black (Unlocked)</title>
+    <link>https://www.redpocket.com/phones</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/iphone15-black.png</image_link>
+    <description>The Apple iPhone 15 with 48MP camera, Dynamic Island, USB-C, and all-day battery life. Unlocked and compatible with all Red Pocket network plans. 128GB storage in Midnight Black.</description>
+    <price>699.00</price>
+    <categories>Phones, Apple, iPhone, 5G, Unlocked</categories>
+    <inventory_quantity>42</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <brand>Apple</brand>
+    <model>iPhone 15</model>
+    <storage_gb>128</storage_gb>
+    <color>Black</color>
+    <network_compatibility>GSMA, GSMT, CDMAV</network_compatibility>
+    <condition>New</condition>
+    <os>iOS 17</os>
+    <screen_size_inches>6.1</screen_size_inches>
+    <camera_mp>48</camera_mp>
+    <supports_5g>Yes</supports_5g>
+    <upgrade_eligible>Yes</upgrade_eligible>
+  </item>
+
+  <item>
+    <id>PHONE-IPHONE15-128-BLUE</id>
+    <title>Apple iPhone 15 — 128GB Blue (Unlocked)</title>
+    <link>https://www.redpocket.com/phones</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/iphone15-blue.png</image_link>
+    <description>The Apple iPhone 15 with 48MP camera, Dynamic Island, USB-C, and all-day battery life. Unlocked and compatible with all Red Pocket network plans. 128GB storage in Blue.</description>
+    <price>699.00</price>
+    <categories>Phones, Apple, iPhone, 5G, Unlocked</categories>
+    <inventory_quantity>0</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <brand>Apple</brand>
+    <model>iPhone 15</model>
+    <storage_gb>128</storage_gb>
+    <color>Blue</color>
+    <network_compatibility>GSMA, GSMT, CDMAV</network_compatibility>
+    <condition>New</condition>
+    <os>iOS 17</os>
+    <screen_size_inches>6.1</screen_size_inches>
+    <camera_mp>48</camera_mp>
+    <supports_5g>Yes</supports_5g>
+    <upgrade_eligible>Yes</upgrade_eligible>
+  </item>
+
+  <item>
+    <id>PHONE-SAMSUNG-A54-128-BLACK</id>
+    <title>Samsung Galaxy A54 5G — 128GB Black (Unlocked)</title>
+    <link>https://www.redpocket.com/phones</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/samsung-a54-black.png</image_link>
+    <description>The Samsung Galaxy A54 5G features a stunning 6.4" Super AMOLED display, 50MP triple camera, and 5000mAh battery. Unlocked and compatible with GSMA and GSMT Red Pocket plans.</description>
+    <price>349.00</price>
+    <categories>Phones, Samsung, Galaxy, 5G, Unlocked, Android</categories>
+    <inventory_quantity>18</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <brand>Samsung</brand>
+    <model>Galaxy A54 5G</model>
+    <storage_gb>128</storage_gb>
+    <color>Black</color>
+    <network_compatibility>GSMA, GSMT</network_compatibility>
+    <condition>New</condition>
+    <os>Android 13</os>
+    <screen_size_inches>6.4</screen_size_inches>
+    <camera_mp>50</camera_mp>
+    <supports_5g>Yes</supports_5g>
+    <upgrade_eligible>Yes</upgrade_eligible>
+  </item>
+
+  <item>
+    <id>PHONE-MOTO-G-POWER-64-BLACK</id>
+    <title>Motorola Moto G Power 5G — 64GB Black (Unlocked)</title>
+    <link>https://www.redpocket.com/phones</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/moto-g-power-black.png</image_link>
+    <description>The Motorola Moto G Power 5G delivers incredible battery life (up to 3 days), a 50MP camera, and 5G speeds at an affordable price. Compatible with GSMA and GSMT Red Pocket plans.</description>
+    <price>199.00</price>
+    <categories>Phones, Motorola, Moto G, 5G, Unlocked, Android, Budget</categories>
+    <inventory_quantity>35</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+    <brand>Motorola</brand>
+    <model>Moto G Power 5G</model>
+    <storage_gb>64</storage_gb>
+    <color>Black</color>
+    <network_compatibility>GSMA, GSMT</network_compatibility>
+    <condition>New</condition>
+    <os>Android 13</os>
+    <screen_size_inches>6.5</screen_size_inches>
+    <camera_mp>50</camera_mp>
+    <supports_5g>Yes</supports_5g>
+    <upgrade_eligible>Yes</upgrade_eligible>
+  </item>
+
+</catalog>

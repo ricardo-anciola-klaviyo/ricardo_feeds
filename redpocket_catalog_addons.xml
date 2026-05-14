@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+  <!-- ============================================================
+       RED POCKET MOBILE — ADD-ONS CATALOG FEED
+       Klaviyo Custom Catalog Feed (XML)
+       Required fields: $id, $title, $link, $image_link, $description
+       Optional: $price, categories
+       Custom: addon_type, data_gb, credit_usd, compatible_networks,
+               compatible_plans, one_time (boolean)
+  ============================================================ -->
+
+  <item>
+    <id>ADDON-DATA-1GB</id>
+    <title>1GB High-Speed Data Add-On</title>
+    <link>https://www.redpocket.com/my-lines</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/addon-data-1gb.png</image_link>
+    <description>Need a little more data this month? Add 1GB of high-speed data to any active Red Pocket line instantly. Compatible with GSMA, GSMT, and CDMAV plans.</description>
+    <price>5.00</price>
+    <categories>Add-Ons, Data, All Networks</categories>
+    <addon_type>data</addon_type>
+    <data_gb>1</data_gb>
+    <credit_usd>0</credit_usd>
+    <compatible_networks>GSMA, GSMT, CDMAV</compatible_networks>
+    <compatible_plans>Essentials, Plus, Premium</compatible_plans>
+    <one_time>Yes</one_time>
+    <expires>End of billing cycle</expires>
+  </item>
+
+  <item>
+    <id>ADDON-DATA-5GB</id>
+    <title>5GB High-Speed Data Add-On</title>
+    <link>https://www.redpocket.com/my-lines</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/addon-data-5gb.png</image_link>
+    <description>Add 5GB of high-speed data to any active Red Pocket line instantly. Best value for heavy data users who need a boost mid-cycle. Compatible with GSMA, GSMT, and CDMAV plans.</description>
+    <price>20.00</price>
+    <categories>Add-Ons, Data, All Networks</categories>
+    <addon_type>data</addon_type>
+    <data_gb>5</data_gb>
+    <credit_usd>0</credit_usd>
+    <compatible_networks>GSMA, GSMT, CDMAV</compatible_networks>
+    <compatible_plans>Essentials, Plus, Premium</compatible_plans>
+    <one_time>Yes</one_time>
+    <expires>End of billing cycle</expires>
+  </item>
+
+  <item>
+    <id>ADDON-INTL-CREDIT-10</id>
+    <title>$10 International Calling Credit</title>
+    <link>https://www.redpocket.com/international-calling</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/addon-intl-credit.png</image_link>
+    <description>Add $10 of international calling credit to reach friends and family in 80+ countries at low per-minute rates. Use it anytime — credit does not expire at end of billing cycle.</description>
+    <price>10.00</price>
+    <categories>Add-Ons, International, Calling</categories>
+    <addon_type>international_calling</addon_type>
+    <data_gb>0</data_gb>
+    <credit_usd>10</credit_usd>
+    <compatible_networks>GSMA, GSMT, CDMAV</compatible_networks>
+    <compatible_plans>Essentials, Plus</compatible_plans>
+    <one_time>Yes</one_time>
+    <expires>Does not expire</expires>
+  </item>
+
+  <item>
+    <id>ADDON-INTL-ROAMING-GSMA</id>
+    <title>International Roaming Data Add-On — GSMA</title>
+    <link>https://www.redpocket.com/international-calling</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/addon-roaming.png</image_link>
+    <description>Extend your high-speed data while roaming internationally on the AT&amp;T network. Stay connected in 60+ countries without surprise charges. Available for GSMA lines only.</description>
+    <price>10.00</price>
+    <categories>Add-Ons, International, Roaming, GSMA</categories>
+    <addon_type>international_roaming</addon_type>
+    <data_gb>1</data_gb>
+    <credit_usd>0</credit_usd>
+    <compatible_networks>GSMA</compatible_networks>
+    <compatible_plans>Essentials, Plus, Premium</compatible_plans>
+    <one_time>Yes</one_time>
+    <expires>End of billing cycle</expires>
+  </item>
+
+</catalog>

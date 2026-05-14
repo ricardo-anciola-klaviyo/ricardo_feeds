@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+  <!-- ============================================================
+       RED POCKET MOBILE — PLANS CATALOG FEED
+       Klaviyo Custom Catalog Feed (XML)
+       Required fields: $id, $title, $link, $image_link, $description
+       Optional: $price, categories
+       Custom: network, billing_cycle, data_gb, talk, text,
+               intl_calling_countries, hotspot, data_speed, annual_price
+  ============================================================ -->
+
+  <item>
+    <id>PLAN-GSMA-ESS-ANN</id>
+    <title>Essentials Plan — GSMA (AT&amp;T Network) Annual</title>
+    <link>https://www.redpocket.com/plans</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/plan-essentials.png</image_link>
+    <description>Get unlimited talk, text, and 3GB of high-speed 5G data on the AT&amp;T network. Includes unlimited international calling to 20+ countries. Best value when purchased annually — get 2 months free.</description>
+    <price>10.00</price>
+    <categories>Plans, GSMA, Annual, Essentials, 5G, AT&amp;T</categories>
+    <network>GSMA</network>
+    <network_carrier>AT&amp;T</network_carrier>
+    <billing_cycle>annual</billing_cycle>
+    <annual_price>120.00</annual_price>
+    <data_gb>3</data_gb>
+    <talk>Unlimited</talk>
+    <text>Unlimited</text>
+    <data_speed>5G / 4G LTE</data_speed>
+    <hotspot>No</hotspot>
+    <intl_calling_countries>20</intl_calling_countries>
+    <roaming_countries>60</roaming_countries>
+    <plan_tier>Essentials</plan_tier>
+  </item>
+
+  <item>
+    <id>PLAN-GSMA-PLUS-ANN</id>
+    <title>Plus Plan — GSMA (AT&amp;T Network) Annual</title>
+    <link>https://www.redpocket.com/plans</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/plan-plus.png</image_link>
+    <description>Get unlimited talk, text, and 20GB of high-speed 5G data on the AT&amp;T network. Includes unlimited international calling to 20+ countries and roaming in 60+ countries. Best value when purchased annually.</description>
+    <price>20.00</price>
+    <categories>Plans, GSMA, Annual, Plus, 5G, AT&amp;T</categories>
+    <network>GSMA</network>
+    <network_carrier>AT&amp;T</network_carrier>
+    <billing_cycle>annual</billing_cycle>
+    <annual_price>240.00</annual_price>
+    <data_gb>20</data_gb>
+    <talk>Unlimited</talk>
+    <text>Unlimited</text>
+    <data_speed>5G / 4G LTE</data_speed>
+    <hotspot>Yes</hotspot>
+    <intl_calling_countries>20</intl_calling_countries>
+    <roaming_countries>60</roaming_countries>
+    <plan_tier>Plus</plan_tier>
+  </item>
+
+  <item>
+    <id>PLAN-GSMA-PREM-ANN</id>
+    <title>Premium Plan — GSMA (AT&amp;T Network) Annual</title>
+    <link>https://www.redpocket.com/plans</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/plan-premium.png</image_link>
+    <description>Get unlimited talk, text, and 50GB of high-speed 5G data on the AT&amp;T network. Includes unlimited international calling to 80+ countries, roaming in 60+ countries, and a $10/month international calling credit.</description>
+    <price>27.00</price>
+    <categories>Plans, GSMA, Annual, Premium, 5G, AT&amp;T</categories>
+    <network>GSMA</network>
+    <network_carrier>AT&amp;T</network_carrier>
+    <billing_cycle>annual</billing_cycle>
+    <annual_price>324.00</annual_price>
+    <data_gb>50</data_gb>
+    <talk>Unlimited</talk>
+    <text>Unlimited</text>
+    <data_speed>5G / 4G LTE</data_speed>
+    <hotspot>Yes</hotspot>
+    <intl_calling_countries>80</intl_calling_countries>
+    <roaming_countries>60</roaming_countries>
+    <plan_tier>Premium</plan_tier>
+  </item>
+
+  <item>
+    <id>PLAN-CDMAV-PLUS-MON</id>
+    <title>Plus Plan — CDMAV (Verizon Network) Monthly</title>
+    <link>https://www.redpocket.com/plans</link>
+    <image_link>https://www.redpocket.com/media/wysiwyg/plan-plus-cdma.png</image_link>
+    <description>Get unlimited talk, text, and 20GB of high-speed 5G data on the Verizon network. Includes unlimited international calling to 20+ countries. Pay month-to-month with no long-term commitment.</description>
+    <price>20.00</price>
+    <categories>Plans, CDMAV, Monthly, Plus, 5G, Verizon</categories>
+    <network>CDMAV</network>
+    <network_carrier>Verizon</network_carrier>
+    <billing_cycle>monthly</billing_cycle>
+    <annual_price>240.00</annual_price>
+    <data_gb>20</data_gb>
+    <talk>Unlimited</talk>
+    <text>Unlimited</text>
+    <data_speed>5G / 4G LTE</data_speed>
+    <hotspot>Yes</hotspot>
+    <intl_calling_countries>20</intl_calling_countries>
+    <roaming_countries>0</roaming_countries>
+    <plan_tier>Plus</plan_tier>
+  </item>
+
+</catalog>
