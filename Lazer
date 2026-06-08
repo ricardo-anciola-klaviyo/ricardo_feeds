@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Klaviyo Test Catalog</title>
-    <link>https://example.com</link>
-    <description>Test catalog feed for validating profile-driven price tier rendering</description>
-
-    <item>
-      <id>12345</id>
-      <title>Test Book Product</title>
-      <description>A single test product used to validate dynamic price rendering by profile property.</description>
-      <link>https://example.com/products/test-book-product</link>
-      <image_link>https://example.com/images/test-book-product.jpg</image_link>
-      <price>19.99</price>
-      <price_bronze>19.99</price_bronze>
-      <price_silver>17.99</price_silver>
-      <price_gold>14.99</price_gold>
-      <inventory_quantity>100</inventory_quantity>
-      <published>true</published>
-      <categories>books,test</categories>
-    </item>
-
-  </channel>
-</rss>
+<items>
+  <item>
+    <$id>12345</$id>
+    <$title>Test Book Product</$title>
+    <$description>A single test product used to validate dynamic price rendering by profile property.</$description>
+    <$price>19.99</$price>
+    <$url>https://example.com/products/test-book-product</$url>
+    <$image_url>https://example.com/images/test-book-product.jpg</$image_url>
+    <price_bronze>19.99</price_bronze>
+    <price_silver>17.99</price_silver>
+    <price_gold>14.99</price_gold>
+    <inventory_quantity>100</inventory_quantity>
+    <published>true</published>
+    <categories>books,test</categories>
+  </item>
+</items>
